@@ -1,7 +1,7 @@
 Assignment 11.1
 ---------------
 
-URL to Jupyter notebook : 
+URL to Jupyter notebook : https://github.com/Etavonni/Assignment11.1/blob/main/Assignment11_1.ipynb 
 
 Primary Findings
 ----------------
